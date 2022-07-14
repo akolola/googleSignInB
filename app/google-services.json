@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896174187067",
+    "project_id": "signinb-84b9e",
+    "storage_bucket": "signinb-84b9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896174187067:android:b2b7a2bf118752b74fb21e",
+        "android_client_info": {
+          "package_name": "com.example.googlesigninb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896174187067-sojq2nd6u0oi2ato2mnma8uhi4m83c1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEi_4vv7iqlL0KvkgCrtfaeTg7o-4wMwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896174187067-sojq2nd6u0oi2ato2mnma8uhi4m83c1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
